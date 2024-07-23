@@ -5,7 +5,7 @@ Hello! I'm kutolakcintamu, a passionate software developer, and tech enthusiast.
 ## 🛠️ Technologies & Tools
 
 - **Languages:** Python, JavaScript, Java, C++, HTML, CSS, SQL
-- **Frameworks & Libraries:** React, Node.js, Django, Flask, Bootstrap
+- **Frameworks & Libraries:** React, Node.js, Bootstrap
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure, VS Code, IntelliJ IDEA
 - **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 
@@ -25,7 +25,6 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 ## 📫 How to Reach Me
 
 - **Email:** [sayangkutolakcintamu@google.com](mailto:sayangkutolakcintamu@google.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile/)
 - **Twitter:** [@kutolakcintamu](https://twitter.com/kutolakcintamu)
 
 ## 💡 Fun Facts

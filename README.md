@@ -24,7 +24,7 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 ## 📫 How to Reach Me
 
-- **Email:** [sayangkutolakcintamu@google.com](mailto:sayangkutolakcintamu@google.com)
+- **Email:** [sayangkutolakcintamu@google.com](mailto:sayangkutolakcintamu@gmail.com)
 - **Twitter:** [@kutolakcintamu](https://twitter.com/kutolakcintamu)
 
 ## 💡 Fun Facts

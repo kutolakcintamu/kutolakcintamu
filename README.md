@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Sikap yang dingin membuat sakit hati 👋
 
 Hello! I'm kutolakcintamu, a passionate software developer, and tech enthusiast. Welcome to my GitHub profile where I share my projects, contributions, and collaborations. Here, you'll find a mix of personal projects, open-source contributions, and collaborative work. Feel free to explore and connect with me!
 
